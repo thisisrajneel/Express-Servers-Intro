@@ -1,0 +1,12 @@
+{
+  "name": "express-servers-intro",
+  "version": "1.0.0",
+  "description": "Intro to servers in ExpressJS",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Rajneel Anuraj",
+  "license": "ISC"
+}
